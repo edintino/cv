@@ -97,43 +97,21 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Certificates
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Artificial Intelligence: Reinforcement Learning in Python"
+        link:"https://www.udemy.com/certificate/UC-cf5209be-1ea9-4c4f-a639-523fd7cdf70d/"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "NLP - Natural Language Processing with Python"
+        link: "https://www.udemy.com/certificate/UC-299f45ac-a047-4553-b063-06c2fb6c9e35/"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Interactive Python Dashboards with Plotly and Dash"
+        link: "https://www.udemy.com/certificate/UC-QABFCLO6/"
+
+      - title: "Complete Guide to Tensorflow for Deep Learning with Python"
+        link: "https://www.udemy.com/certificate/UC-UY0DY69G/"
 
 skills:
     title: Skills &amp; Proficiency
