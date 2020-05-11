@@ -89,7 +89,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Some of my projects on github:
+      Some of my projects on github.
     assignments:
       - title: Kernel Polynomial Method for Local Densities of States
         link: "https://github.com/edintino/LDOS_localized_QWZ"
