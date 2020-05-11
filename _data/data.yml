@@ -15,7 +15,7 @@ sidebar:
     email: dintino@windowslive.com
     #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
-    linkedin: eugenio-adam-d-intino-361769106/
+    linkedin: eudintino
     github: edintino
     gitlab:
     bitbucket:
@@ -54,32 +54,15 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: M.Sci. Theoretical Physics and Applied Mathematics (1st class)
+      university: University of Birmingham
+      time: 2015 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Junior Data Scientist
+      time: 2018 Sept - Present
+      company: Telenor
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,28 +75,17 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Intern
+      time: 2018 June - Sept
+      company: Hungarian Academy of Sciences, Wigner Research Centre for Physics
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Optimized implementation of the investigated numerical approach in python
+          - Job scheduling on linux computer cluster
+    - role: Research Intern
+      time: 2016 June - Aug
+      company: University of Birmingham
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Implementation of a Monte Carlo simulation in C++
 projects:
     title: Projects
     intro: >
@@ -167,23 +139,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: SQL
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python 
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: LaTeX
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: R
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Linux
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Git
+        level: 65%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
