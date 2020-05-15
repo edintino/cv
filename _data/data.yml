@@ -44,15 +44,15 @@ sidebar:
       - item: Running
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+#career-profile:
+#    title: Career Profile
+#    summary: |
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+#      Second paragraph if required.
 education:
     - degree: M.Sci. Theoretical Physics and Applied Mathematics (1st class)
       university: University of Birmingham
@@ -61,20 +61,18 @@ education:
 
 experiences:
     - role: Junior Data Scientist
+      time: 2018 Oct - Dec
+      company: Telenor
+      details: |
+          - Support marketing campaings either with supervised or unsupervised modelling
+          - Creation of new meaning full variables into DWH (e.g. Social Network metrics from CDR)
+          - Adhoc analysis and reporting with BD cluster (e.g. reporting to the goverment during COVID)
+    - role: Teaching Assistant (Data Science for Everyone)
       time: 2018 Sept - Present
       company: Telenor
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Assist students during computer labs
+          - Weekly tutorials for students
     - role: Research Intern
       time: 2018 June - Sept
       company: Hungarian Academy of Sciences, Wigner Research Centre for Physics
@@ -99,6 +97,9 @@ publications:
     title: Certificates
 
     papers:
+      - title: "In progress - (PyTorch) Deep Learning and Artificial Intelligence"
+        link: "https://www.udemy.com/course/pytorch-deep-learning/"
+
       - title: "Reinforcement Learning in Python"
         link: "https://www.udemy.com/certificate/UC-cf5209be-1ea9-4c4f-a639-523fd7cdf70d/"
 
@@ -116,7 +117,7 @@ skills:
 
     toolset:
       - name: SQL
-        level: 100%
+        level: 95%
 
       - name: Python 
         level: 90%
@@ -124,10 +125,10 @@ skills:
       - name: LaTeX
         level: 90%
 
-      - name: R
+      - name: Linux
         level: 75%
 
-      - name: Linux
+      - name: R
         level: 70%
 
       - name: Git
