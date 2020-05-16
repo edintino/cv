@@ -61,14 +61,14 @@ education:
 
 experiences:
     - role: Junior Data Scientist
-      time: 2018 Oct - Dec
+      time: 2019 Sept - Present
       company: Telenor
       details: |
           - Support marketing campaings either with supervised or unsupervised modelling
           - Creation of new meaning full variables into DWH (e.g. Social Network metrics from CDR)
           - Adhoc analysis and reporting with BD cluster (e.g. reporting to the goverment during COVID)
     - role: Teaching Assistant (Data Science for Everyone)
-      time: 2018 Sept - Present
+      time: 2018 Oct - Dec
       company: University of Birmingham
       details: |
           - Assist students during computer labs
