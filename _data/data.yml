@@ -65,7 +65,7 @@ experiences:
       company: Telenor
       details: |
           - Support marketing campaings either with supervised or unsupervised modelling
-          - Creation of new meaning full variables into DWH (e.g. Social Network metrics from CDR)
+          - Creation of new meaningful variables into DWH (e.g. Social Network metrics from CDR)
           - Adhoc analysis and reporting with BD cluster (e.g. reporting to the goverment during COVID)
     - role: Teaching Assistant (Data Science for Everyone)
       time: 2018 Oct - Dec
@@ -90,6 +90,9 @@ projects:
     intro: >
         Some of my projects on github.
     assignments:
+      - title: "CIFAR10"
+        link: "https://github.com/edintino/cifar10"
+        tagline: "Build an optimised and robust deep learning network with transfer learning using a subset of the main dataset"
       - title: "Reinforcement learning data ticket recommender"
         link: "https://github.com/edintino/data_ticket_reinforcement_learning"
         tagline: "Free time project, data ticket recommender using reinforcement learning"
